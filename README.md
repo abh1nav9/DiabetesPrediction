@@ -46,6 +46,6 @@ Use Jupyter Notebook or Google Collab
 ### 5. Run App
 
 ```bash
-streamlit run app.py
+streamlit run "Main.py file path"
 ```
 
