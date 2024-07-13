@@ -6,7 +6,7 @@ import streamlit as st
 
 
 # loading the saved model
-loaded_model = pickle.load(open('C:/Users/NOAH/Desktop/TestData/trained_model.sav', 'rb'))
+loaded_model = pickle.load(open('trained_model.sav local path with forward slash', 'rb'))
 
 
 # creating a function for Prediction
